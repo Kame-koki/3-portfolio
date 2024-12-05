@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Koki ポートフォリオ",
-  description: "Kokiのポートフォリオです。",
+  title: "Koki Portfolio",
+  description: "This is Koki Portfolio",
 };
 
 export default function RootLayout({

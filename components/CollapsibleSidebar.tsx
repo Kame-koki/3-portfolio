@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { motion } from "framer-motion"
-import { ChevronRight, Home, Settings, Users, HelpCircle } from "lucide-react"
+import { ChevronRight, Home, Users } from "lucide-react"
 
 const menuItems = [
   { icon: Home, label: "ホーム", href: "/" },
